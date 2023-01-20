@@ -8,7 +8,7 @@
 - 🔭 I write tech articles daily on my newsletter Booka Technika on https://www.linkedin.com/newsletters/booka-technika-7017991457496031232/
 - 💞️ I’m looking to collaborate on open source projects particularly in the areas of python programming and technical documentation.
 - 📫 How to reach me is via my email: ebubennenna@gmail.com and linkedin: Ebubechukwu Oguaju-Dike
-- ⚡ Fun fact: am a comedian, I love football, music, writing and movies
+- ⚡ Fun fact: am a comedian, I love crotcheting, traceling, music and movies.
 
 ![Visitor Count](https://profile-counter.glitch.me/{ebube-tech}/count.svg)
 
