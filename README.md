@@ -5,6 +5,7 @@
 - 👋 Hi, I’m @ebube-tech
 - 👀 I’m interested in writing software documentation.
 - 🌱 I’m currently learning Machine Learning with Python
+- 🎥 I have a Software Youtube Channel, find it here https://www.youtube.com/channel/UCO6Zdy5oAeUeFIlcbBlAiyA
 - 🔭 I write tech articles daily on my newsletter Booka Technika on https://www.linkedin.com/newsletters/booka-technika-7017991457496031232/
 - 💞️ I’m looking to collaborate on open source projects, particularly in the areas of Python programming and technical documentation.
 - 📫 How to reach me is via my email: ebubennenna@gmail.com and LinkedIn: [Ebubechukwu Oguaju-Dike](https://www.linkedin.com/in/ebubechukwu-o-446829123/)
